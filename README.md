@@ -8,11 +8,11 @@
 ## About Me
 👩‍🎓 Hello Everyone myself Vandana Prajapati. I hold a Bachelor's degree in Computer Science and Masters Degree in Information Technology.
 
-I am keen enthusiast of Data Science and Analytics. I love playing with data , exploring data and getting valuable business insights. Other thing which I like most is Data Modelling and Visualizing data.
+I am keen enthusiast of Data Science and Analytics 📊. I love playing with data , exploring data and getting valuable business insights. Other thing which I like most is Data Modelling and Visualizing data.
 As in my Life I like to keep everything very clean and tidy, so with the data Cleaning place a major role in Data. First thing I begin with Cleaning the data.
 
 I Love to learn new things especially if it is related to DATA and Share my work with the Data nerds on Social Platforms.
-I also like to connect with Like-minded people, share my thoughts and improve my Skills.
+I also like to connect with Like-minded people🤝, share my thoughts and improve my Skills.
 
 - 👩‍🎓 I’m currently pursuing my Master's Degree from **Mumbai University**
 
