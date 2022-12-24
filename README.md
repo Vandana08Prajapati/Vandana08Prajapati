@@ -1,5 +1,6 @@
-#                            Hi, 👋  I’m Vandana Prajapati 😊
-#### A passionate data enthusiast love to work with data 📊. Love being a data detective to explore raw data to get helpful insights 📈 
+#                            Hi,   👋  I’m Vandana Prajapati 😊
+
+### A passionate data enthusiast love to work with data 📊. Love being a data detective to explore raw data to get helpful insights 📈 
 - 👀 I’m interested in Data Data & Data
 - 🌱 I’m currently learning SQL and PowerBI 
 - 📫 How to reach me  **vandanaprajapati15.vp@gmail.com**
