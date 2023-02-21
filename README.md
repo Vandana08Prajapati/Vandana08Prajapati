@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vandana Prajapati</h1>
+<h1 align="center">Hi 👋, I'm Vandana Prajapati 😊</h1> 
 <h3 align="center">A passionate Data Science Enthusiast from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
